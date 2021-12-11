@@ -1,4 +1,4 @@
-# Movies Trailers Library 🎥
+# Movies Library 🎥
 
 Project using classes and functions to buid a program that creates a movies library to play the movies' trailers.
 
