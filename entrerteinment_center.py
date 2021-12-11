@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import media
 
-pulp_fiction = media.Movie('Pul Fiction',
+pulp_fiction = media.Movie('Pulp Fiction',
                            'The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits.',
                            'https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg',
                            'https://www.youtube.com/watch?v=5ZAhzsi1ybM')
